@@ -6,7 +6,3 @@
 7777777
 8888888
 9999999
-aaaaaaa
-bbbbbbb
-ccccccc
-ddddddd
